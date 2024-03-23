@@ -1,0 +1,1 @@
+Yes, I know that trying to obfuscating a client written in .NET to prevent reverse engineers is eventually futile. Succesful deobfuscation of this client is a major a security risk and allows for the "theft" of the cheats stored in the DB.
