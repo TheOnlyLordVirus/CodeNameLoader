@@ -5,9 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CodeNameLoader"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button Content="Send Request" HorizontalAlignment="Center" VerticalAlignment="Center" Height="74" Width="208" Click="Button_Click"/>
+        Title="MainWindow" Height="450" Width="800" ResizeMode="CanMinimize">
 
-    </Grid>
 </Window>
